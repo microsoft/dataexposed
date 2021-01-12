@@ -12,7 +12,7 @@ These are the episode  areas, in reverse order, and any links or content we post
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
 
-<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="./graphics/camera.png?raw=true"><b>     Episode One: Two Data Scientists Walk into a Bar</b></h3> 
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/graphics/camera.png?raw=true"><b>     Episode One: Two Data Scientists Walk into a Bar</b></h3> 
 <br>
 
 *Date Aired: January 21, 2021*
