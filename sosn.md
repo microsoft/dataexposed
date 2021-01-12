@@ -4,7 +4,7 @@
 ## Something Old, Something New
 <img  width="200" src="./graphics/sosn-transp-white.png">
 
-This page on [Data Exposed](https://microsoft.github.io/dataexposed/) contains samples, references and other content from the Data Exposed .
+This page contains samples, references and other content from the Data Exposed series "Something Old, Something New". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/).
 
 ## Episodes
 
