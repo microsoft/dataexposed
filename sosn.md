@@ -15,11 +15,9 @@ As always, we've got a place to ask questions and chat about what you've learned
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode One: Two Data Scientists Walk into a Bar</b></h3> 
 <br>
 
-*Date Aired: January 21, 2021*
+*[Date Aired: January 21, 2021](https://microsoft.github.io/dataexposed/sosn)*
 
 In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intruguing title. You'll learn the maths be
-
-- [Show Link](https://microsoft.github.io/dataexposed/sosn)
 
 **Something Old:** 
 - [Link Description](https://microsoft.github.io/dataexposed/sosn)
