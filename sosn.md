@@ -17,7 +17,9 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 *[Date Aired: January 21, 2021](https://microsoft.github.io/dataexposed/sosn)*
 
-In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intruguing title. You'll learn the maths be
+In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intruguing title. You'll learn the maths behind Data Science and Machine Learning, why you might want to learn more about them, and then Anna explains a dead-simple way to tell if she wants more coffee.
+
+Probably. 
 
 **Something Old:** 
 - General:
