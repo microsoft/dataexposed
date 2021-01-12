@@ -2,7 +2,7 @@
 
 # Data Exposed
 ## Something Old, Something New
-<img  width="100" src="./graphics/sosn.svg">
+<img  width="100" src="./graphics/sosn-trans-white.svg">
 
 This page on [Data Exposed](https://microsoft.github.io/dataexposed/) contains samples, references and other content from the Data Exposed .
 

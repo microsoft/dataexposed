@@ -1,7 +1,7 @@
 <img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
 
 # Data Exposed
-## (https://aka.ms/dataexposed)
+## (https://microsoft.github.io/dataexposed/)
 
 This [site](https://microsoft.github.io/dataexposed/) contains samples, references and other content produced by and curated by the Azure Data  team in Microsoft Engineering for the [Data Exposed Channel 9 broadcast](https://channel9.msdn.com/Shows/Data-Exposed). You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/microsoft/dataexposed).
 
@@ -18,7 +18,7 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 ## Channel 9's Data Exposed Series
 
 - [Data Exposed on Channel 9](https://channel9.msdn.com/Shows/Data-Exposed)
-- [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn.md)
+- [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn)
 
 ## Other Resources, Materials, Code, and References
 
