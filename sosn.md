@@ -54,4 +54,4 @@ Probably.
     - [Algorithm families for Machine Learning](https://machinelearningmastery.com/start-here/#algorithms)
     - [Azure Machine Learning Cheat Sheet for selecting algorithms](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms)
 - Example
-    - [Coffee use case for Markov Chains](./notebooks/sosnep01nb01.ipynb)
+    - [Coffee use case for Markov Chains](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP01NB01.ipynb)
