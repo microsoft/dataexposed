@@ -1,33 +1,46 @@
+<img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
+
 # Data Exposed
+## (https://aka.ms/dataexposed)
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This [site](https://microsoft.github.io/dataexposed/) contains samples, references and other content produced by and curated by the Azure Data  team in Microsoft Engineering for the [Data Exposed Channel 9 broadcast](https://channel9.msdn.com/Shows/Data-Exposed). You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/microsoft/dataexposed).
 
-As the maintainer of this project, please make a few updates:
+## Join the Conversation
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+We've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). 
 
-## Contributing
+To download any of these materials to your local computer, navigate to the *github page* using the links below. Once there, click the **Clone or Download** button you see there. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+*See the license information at the bottom of this README.md file*
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sqlworkshops/issues), include the page URL, and we'll try and fix it.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## Channel 9's Data Exposed Series
 
-## Trademarks
+- [Data Exposed on Channel 9](https://channel9.msdn.com/Shows/Data-Exposed)
+- [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn.md)
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Other Resources, Materials, Code, and References
+
+- [Presentation Materials from the Azure Data Team - *(PowerPoint Decks, etc.)*](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#decks)
+- [Example Code for SQL Server ](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#code)
+- [References and Tools from the Microsoft SQL Team](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#links)
+
+### Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+### License
+Microsoft and any contributors grant you a license to the Microsoft documentation and other content in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode), see [the LICENSE file](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web/blob/master/LICENSE), and grant you a license to any code in the repository under [the MIT License](https://opensource.org/licenses/MIT), see the [LICENSE-CODE file](https://github.com/MicrosoftDocs/mslearn-tailspin-spacegame-web/blob/master/LICENSE-CODE).
+
+Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
+may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
+The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
+Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+
+Privacy information can be found at https://privacy.microsoft.com/en-us/
+
+Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
+or trademarks, whether by implication, estoppel or otherwise.
+
+### Questions
+Email questions to: sqlserversamples@microsoft.com
