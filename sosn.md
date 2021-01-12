@@ -17,12 +17,14 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 *Date Aired: January 21, 2021*
 
-In this exciting episode, Buck and Anna 
+In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intruguing title. You'll learn the maths be
 
-**Links:**
-- [Link Descriptipon](https://github.com/Microsoft/sqlworkshops)
+- [Show Link](https://microsoft.github.io/dataexposed/sosn)
 
-**Comments:** 
-- Comment
+**Something Old:** 
+- [Link Description](https://microsoft.github.io/dataexposed/sosn)
+
+**Something New:** 
+- [Link Description](https://microsoft.github.io/dataexposed/sosn)
 
 
