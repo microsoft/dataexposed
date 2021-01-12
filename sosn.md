@@ -17,11 +17,12 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 *[Date Aired: January 21, 2021](https://microsoft.github.io/dataexposed/sosn)*
 
-In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intruguing title. You'll learn the maths behind Data Science and Machine Learning, why you might want to learn more about them, and then Anna explains a dead-simple way to tell if she wants more coffee.
+In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intriguing title. You'll learn the maths behind Data Science and Machine Learning, why you might want to learn more about them, and then Anna explains a dead-simple way to tell if she wants more coffee.
 
-Probably. 
+Probably.
 
-**Something Old:** 
+**Something Old:**
+
 - General:
 	- [Core Data Science Concepts for Beginners](https://www.kdnuggets.com/2020/12/20-core-data-science-concepts-beginners.html)
     - [How Much Math Do You Actually Need For Data Science?](https://towardsdatascience.com/how-much-math-do-you-actually-need-for-data-science-87a8765ae1f2) 
@@ -44,7 +45,13 @@ Probably.
     - [Essential Math for Data Science: Integrals And Area Under The Curve](https://www.kdnuggets.com/2020/11/essential-math-data-science-integrals-area-under-curve.html)
     - [Calculus in Machine Learning](https://medium.com/towards-artificial-intelligence/calculus-in-machine-learning-2e7cddafa21f#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjI1MmZjYjk3ZGY1YjZiNGY2ZDFhODg1ZjFlNjNkYzRhOWNkMjMwYzUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MTAwMjA4NTMsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMjI2Mjg4NjY5NjkwMDU3OTk1MyIsImVtYWlsIjoic2VhdHRsZWhhc2NvZmZlZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkJ1Y2sgV29vZHkiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dCUk0yRzM0SGxHWkJ4QjVTRGhKU3ZxeXBrd0JnN19UWks3TVhYOWc9czk2LWMiLCJnaXZlbl9uYW1lIjoiQnVjayIsImZhbWlseV9uYW1lIjoiV29vZHkiLCJpYXQiOjE2MTAwMjExNTMsImV4cCI6MTYxMDAyNDc1MywianRpIjoiZjQ1NTUxMDQ5YTNmZjVkMDE2ODQyN2ZiMWQ3YzU1Y2U4MjA1ZDRmMCJ9.LyhgATruFwb8apRZInefq_Oc14wlSKJJhYsiSS-KXuL_iyz3yEX1RxOSKNqh9h1Sq2E-lyAtIo_EbfkOlCVZqVlIr29bG31ZBExuw9fr9q4xXuGUUndIWAJ3MrHS3Ws5HyNQHzWRfZVGFrZqqfJVIKPqSeZwQfmGizWCkKdRDinDBqTUEcwGnTeyfHH5qmVYOwfVkMeT5R73j8mGjdAzoG03tONvXq3bwgI8hUC2AeKmvhXGAgvug7-_Vnq3XYRk40QdTjamt7fPspv5pGlXJ1ocDdNQYjExydsHSrWZybyo3EfWJIIGsMmJdspGHZNXnZuhOmAfFXGb01Vr09_SmA)
 
-**Something New:** 
-- [Link Description](https://microsoft.github.io/dataexposed/sosn)
+**Something New:**
 
-
+- Process
+    - [Team Data Science Process (TDSP)](http://aka.ms/tdsp)
+    - [Cross-industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+- Algorithms
+    - [Algorithm families for Machine Learning](https://machinelearningmastery.com/start-here/#algorithms)
+    - [Azure Machine Learning Cheat Sheet for selecting algorithms](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms)
+- Example
+    - [Coffee use case for Markov Chains](./notebooks/sosnep01nb01.ipynb)
