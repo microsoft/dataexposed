@@ -1,7 +1,7 @@
 <img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
 
 # Data Exposed
-## Something Old, Something New
+## Something Old, Something New (http://aka.ms/sosn)
 <img  width="200" src="./graphics/sosn-transp-white.png">
 
 This page contains samples, references and other content from the Data Exposed series "Something Old, Something New". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/).
