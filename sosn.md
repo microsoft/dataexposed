@@ -30,12 +30,13 @@ Probably.
     - [Lost Islamic Maths](https://www.bbc.com/future/article/20201204-lost-islamic-library-maths)
     - [Microsoft Research Book on Math and Machine Learning](https://www.datasciencecentral.com/profiles/blogs/new-book-foundations-of-data-science-from-microsoft-research-lab?s=03)
     - [A Personal Journey into Bayesian Networks](https://ftp.cs.ucla.edu/pub/stat_ser/r476.pdf)  
+    - [100+ Free Books on Data Science](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html?utm_content=151207683)
+
 - Statistics	
 	- [History of Statistics](https://en.wikipedia.org/wiki/History_of_statistics#:~:text=not%20present%20%20%20Continuous%20data%20%20,Biplot%20Box%20plot%20Control%20chart%20%20...)
 	- [Statistics and machine learning: what’s the difference?](https://algorithmia.com/blog/statistics-and-machine-learning-whats-the-difference#:~:text=%20What%20are%20the%20key%20differences%20between%20statistics,the%20large%20number%20of%20variables%20in...%20More)
     - [Book references for Statistics and Machine Learning](https://www.kdnuggets.com/2020/12/5-free-books-learn-statistics-data-science.html)
-    - [100+ Free Books on Data Science](https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html?utm_content=151207683)
-	
+
 - Algebra
 	- [5 Reasons to Learn Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear-algebra-machine-learning/#:~:text=%205%20Reasons%20To%20Improve%20Your%20Linear%20Algebra,of%20the%20algorithm%20and%20its%20constraints...%20More)
 	- [Learn Linear Algebra in Five Hours Today with the Wolfram Language](https://blog.wolfram.com/2020/08/14/learn-linear-algebra-in-five-hours-today-with-the-wolfram-language/)
