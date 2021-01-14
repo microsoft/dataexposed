@@ -35,6 +35,7 @@ Probably.
 - Statistics	
 	- [History of Statistics](https://en.wikipedia.org/wiki/History_of_statistics#:~:text=not%20present%20%20%20Continuous%20data%20%20,Biplot%20Box%20plot%20Control%20chart%20%20...)
 	- [Statistics and machine learning: what’s the difference?](https://algorithmia.com/blog/statistics-and-machine-learning-whats-the-difference#:~:text=%20What%20are%20the%20key%20differences%20between%20statistics,the%20large%20number%20of%20variables%20in...%20More)
+    - [Beginner guides to learning Statistics for Data Science](https://elitedatascience.com/learn-statistics-for-data-science#:~:text=%20The%20Best%20Way%20to%20Learn%20to%20Statistics,3:%20Intro%20to%20Statistical%20Machine%20Learning%20More)
     - [Book references for Statistics and Machine Learning](https://www.kdnuggets.com/2020/12/5-free-books-learn-statistics-data-science.html)
 
 - Algebra
