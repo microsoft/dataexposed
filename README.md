@@ -1,6 +1,7 @@
 <img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
 
 # Data Exposed
+
 ## (https://microsoft.github.io/dataexposed/)
 
 This [site](https://microsoft.github.io/dataexposed/) contains samples, references and other content produced by and curated by the Azure Data  team in Microsoft Engineering for the [Data Exposed Channel 9 broadcast](https://channel9.msdn.com/Shows/Data-Exposed). You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/microsoft/dataexposed).
