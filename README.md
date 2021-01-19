@@ -8,7 +8,7 @@ This [site](https://microsoft.github.io/dataexposed/) contains samples, referenc
 
 ## Join the Conversation
 
-We've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). 
+We've got a place to ask questions and chat about what you've learned! Follow the [terms and conditions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). 
 
 To download any of these materials to your local computer, navigate to the *github page* using the links below. Once there, click the **Clone or Download** button you see there. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
@@ -16,10 +16,11 @@ To download any of these materials to your local computer, navigate to the *gith
 
 Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sqlworkshops/issues), include the page URL, and we'll try and fix it.
 
-## Channel 9's Data Exposed Series
+## Data Exposed Series
 
 - [Data Exposed on Channel 9](https://channel9.msdn.com/Shows/Data-Exposed)
 - [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn)
+- Azure SQL Security Series (coming soon)
 
 ## Other Resources, Materials, Code, and References
 
