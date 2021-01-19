@@ -15,10 +15,11 @@ To download any of these materials to your local computer, navigate to the *gith
 
 Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sqlworkshops/issues), include the page URL, and we'll try and fix it.
 
-## Channel 9's Data Exposed Series
+## Data Exposed Series
 
 - [Data Exposed on Channel 9](https://channel9.msdn.com/Shows/Data-Exposed)
 - [Something Old, Something New](https://microsoft.github.io/dataexposed/sosn)
+- Azure SQL Security Series (coming soon)
 
 ## Other Resources, Materials, Code, and References
 
