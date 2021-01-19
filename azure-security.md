@@ -1,7 +1,7 @@
 <img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
 
 # Data Exposed
-## Azure Data Security
+## Azure SQL Security
 
 This page contains samples, references and other content from the Data Exposed series on Azure Data Security". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/).
 
@@ -16,7 +16,7 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 *[Date Aired: 010101](https://link)*
 
-In this  episode, Enter Description Here.
+In this episode, Enter Description Here.
 
 **Links and References:**
 
