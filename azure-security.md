@@ -3,7 +3,7 @@
 # Data Exposed
 ## Azure Data Security
 
-This page contains samples, references and other content from the Data Exposed series on Azure Data Security". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/).
+This page contains samples, references and other content from the Data Exposed series on Azure Data Security". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/)
 
 ## Episodes
 
