@@ -7,7 +7,7 @@ This [site](https://microsoft.github.io/dataexposed/) contains samples, referenc
 
 ## Join the Conversation
 
-We've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). 
+We've got a place to ask questions and chat about what you've learned! Follow the [terms and conditions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). 
 
 To download any of these materials to your local computer, navigate to the *github page* using the links below. Once there, click the **Clone or Download** button you see there. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
