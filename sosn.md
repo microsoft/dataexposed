@@ -15,7 +15,7 @@ As always, we've got a place to ask questions and chat about what you've learned
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode One: Two Data Scientists Walk into a Bar</b></h3> 
 <br>
 
-*[Date Aired: January 21, 2021](https://microsoft.github.io/dataexposed/sosn)*
+*[Date Aired: January 20, 2021](https://youtu.be/vl-XtjWTffw?list=PL3EZ3A8mHh0xEjDPcaWeQCjs727PRqA3i)*
 
 In this exciting episode, Buck and Anna introduce the show, and explain the deep and dark meaning behind the show's intriguing title. You'll learn the maths behind Data Science and Machine Learning, why you might want to learn more about them, and then Anna explains a dead-simple way to tell if she wants more coffee.
 
