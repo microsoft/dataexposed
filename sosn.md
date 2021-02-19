@@ -4,13 +4,49 @@
 ## Something Old, Something New (http://aka.ms/sosn)
 <img  width="200" src="./graphics/sosn-transp-white.png">
 
-This page contains samples, references and other content from the Data Exposed series "Something Old, Something New". You can find all the [Channel 9 Data Exposed Content here](https://microsoft.github.io/dataexposed/).
+This page contains samples, references and other content from the Data Exposed series "Something Old, Something New". You can find all the [Data Exposed Content here](https://microsoft.github.io/dataexposed/).
 
 ## Episodes
 
 These are the episode  areas, in reverse order, and any links or content we post from the shows. 
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
+
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Two: Reduce, Re-use, Recycle</b></h3><br>
+
+*[Date Aired: February 24th, 2021](https://youtu.be/TRNvuD5n8BQ)*
+
+TBD
+
+**References:**
+
+- General:
+	- [Great overall resource on math and Data Science, with links to training locations](https://www.kdnuggets.com/2018/09/essential-math-data-science.html?s=03) 
+	- [T-Test - How to use Python to Perform a Paired Sample T-test (marsja.se)](https://www.marsja.se/how-to-use-python-to-perform-a-paired-sample-t-test/)
+	- [Overview of Dimensionality Reduction in Machine Learning](https://medium.com/@rinu.gour123/dimensionality-reduction-in-machine-learning-dad03dd46a9e)
+		
+- EDA: 
+	- [We are in this phase of the Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-data)
+	- [General Overview of EDA](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
+	- [Central Tendency](https://www.c-sharpcorner.com/article/measure-of-central-tendency-in-statistics/)
+	- [5 Number Summary](https://www.r-bloggers.com/2013/08/exploratory-data-analysis-the-5-number-summary-two-different-methods-in-r/)
+	- [Try EDA on a toy (but real) data set](https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/) 
+	- [EDA Example in R](https://r4ds.had.co.nz/exploratory-data-analysis.html) 
+	- [Using Python for Data Visualization](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
+- PCA 
+	- [An overview of PCA](https://towardsdatascience.com/5-minute-machine-learning-principal-component-analysis-9bbf83bbfd69)
+	- [A practical example in PCA](https://towardsdatascience.com/how-to-remove-multicollinearity-in-dataset-using-pca-4b4561c28d0b) 
+	- [A step by step walkthrough of PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+	- [Python PCA tutorial](https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial)
+- LDA
+	- [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://datascience.eu/computer-programming/topic-modeling-and-latent-dirichlet-allocation-lda-in-python/)  
+- GDA
+    - [Gaussian Discriminant Analysis Overview](https://origin.geeksforgeeks.org/gaussian-discriminant-analysis/)
+- Code samples from episode
+    - [EDA in R and with Azure SQL Database](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP01RS01.ipynb)
+    - [Anscombe's Quartet Python notebook](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP02NB01.ipynb)
+    - [PCA Example Python notebook](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP02NB02.ipynb)
+
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode One: Two Data Scientists Walk into a Bar</b></h3> 
 <br>
