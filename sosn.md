@@ -43,7 +43,7 @@ TBD
 - GDA
     - [Gaussian Discriminant Analysis Overview](https://origin.geeksforgeeks.org/gaussian-discriminant-analysis/)
 - Code samples from episode
-    - [EDA in R and with Azure SQL Database](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP01RS01.ipynb)
+    - [EDA in R and with Azure SQL Database](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP01RS01.R)
     - [Anscombe's Quartet Python notebook](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP02NB01.ipynb)
     - [PCA Example Python notebook](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP02NB02.ipynb)
 
