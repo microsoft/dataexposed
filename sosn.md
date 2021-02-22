@@ -16,7 +16,7 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 *[Date Aired: February 24th, 2021](https://youtu.be/TRNvuD5n8BQ)*
 
-TBD
+Our hero Buck goes on a trip (virtually though, since there's a thing) to the data jungle to detangle the tangled. He also notices that your data is a bit...chunky, and shows you how to go low-calorie with your algorithms. Anna shows up to save the day with something really deep. Deep Learning, that is. 
 
 **References:**
 
@@ -24,6 +24,7 @@ TBD
 	- [Great overall resource on math and Data Science, with links to training locations](https://www.kdnuggets.com/2018/09/essential-math-data-science.html?s=03) 
 	- [T-Test - How to use Python to Perform a Paired Sample T-test (marsja.se)](https://www.marsja.se/how-to-use-python-to-perform-a-paired-sample-t-test/)
 	- [Overview of Dimensionality Reduction in Machine Learning](https://medium.com/@rinu.gour123/dimensionality-reduction-in-machine-learning-dad03dd46a9e)
+	- [Data Literacy is basic, but extremely important. Learn more about it in this free workshop](https://github.com/BuckWoody/presentations/tree/master/dataliteracy)
 		
 - EDA: 
 	- [We are in this phase of the Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/lifecycle-data)
@@ -33,6 +34,7 @@ TBD
 	- [Try EDA on a toy (but real) data set](https://www.analyticsvidhya.com/blog/2021/01/exploratory-data-analysis-on-nyc-taxi-trip-duration-dataset/) 
 	- [EDA Example in R](https://r4ds.had.co.nz/exploratory-data-analysis.html) 
 	- [Using Python for Data Visualization](https://stackabuse.com/introduction-to-data-visualization-in-python-with-pandas/)
+	- [A Very cool new library for EDA](https://www.kdnuggets.com/2021/02/powerful-exploratory-data-analysis-sweetviz.html)
 - PCA 
 	- [An overview of PCA](https://towardsdatascience.com/5-minute-machine-learning-principal-component-analysis-9bbf83bbfd69)
 	- [A practical example in PCA](https://towardsdatascience.com/how-to-remove-multicollinearity-in-dataset-using-pca-4b4561c28d0b) 
