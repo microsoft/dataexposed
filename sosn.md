@@ -2,7 +2,7 @@
 
 # Data Exposed
 ## Something Old, Something New (http://aka.ms/sosn)
-<img  width="200" src="./graphics/sosn-transp-white.png">
+<img src="https://raw.githubusercontent.com/microsoft/dataexposed/main/graphics/sosn-black-new-very-small-removebg.png" alt="Logo" height="150">
 
 This page contains samples, references and other content from the Data Exposed series "Something Old, Something New". You can find all the [Data Exposed Content here](https://microsoft.github.io/dataexposed/).
 
