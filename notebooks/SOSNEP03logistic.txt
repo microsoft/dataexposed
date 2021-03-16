@@ -1,0 +1,68 @@
+# Install Libraries if you don't have them
+install.packages("tidyverse")
+install.packages("caret")
+install.packages("mlbench")
+
+
+# Now load the libraries you need, and set some plot elements
+library(tidyverse)
+library(caret)
+
+# Load the data and do a little feature engineering
+data("PimaIndiansDiabetes2", package = "mlbench")
+PID2 <- na.omit(PimaIndiansDiabetes2)
+
+# Inspect the data
+sample_n(PID2, 4)
+
+# Split the data into training and test set
+set.seed(123)
+training.samples <- PPID2$diabetes %>% 
+  createDataPartition(p = 0.75, list = FALSE)
+train.data  <- PID2[training.samples, ]
+test.data <- PID2[-training.samples, ]
+
+# Fit the model
+model <- glm( diabetes ~., data = train.data, family = binomial)
+
+# Summarize the model
+summary(model)
+
+# Make predictions
+probabilities <- model %>% predict(test.data, type = "response")
+predicted.classes <- ifelse(probabilities > 0.5, "pos", "neg")
+
+# Model accuracy
+mean(predicted.classes == test.data$diabetes)
+model <- glm( diabetes ~ glucose, data = train.data, family = binomial)
+summary(model)$coef
+newdata <- data.frame(glucose = c(20,  180))
+probabilities <- model %>% predict(newdata, type = "response")
+predicted.classes <- ifelse(probabilities > 0.5, "pos", "neg")
+predicted.classes
+
+# Set some plot elements
+theme_set(theme_linedraw())
+theme_update(panel.grid.minor = element_line(colour = "red"))
+
+# Create the plot
+train.data %>%
+  mutate(prob = ifelse(diabetes == "pos", 1, 0)) %>%
+  ggplot(aes(glucose, prob)) +
+  geom_point(alpha = 0.2) +
+  geom_smooth(method = "glm", method.args = list(family = "binomial")) +
+  labs(
+    title = "Logistic Regression Model", 
+    x = "Plasma/Glucose Concentration",
+    y = "Prob. Diabetes +"
+    )
+
+
+# Multiple LR
+model <- glm( diabetes ~ glucose + mass + pregnant, 
+                data = train.data, family = binomial)
+summary(model)$coef
+
+model <- glm( diabetes ~., data = train.data, family = binomial)
+summary(model)$coef
+
