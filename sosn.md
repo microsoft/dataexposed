@@ -12,6 +12,28 @@ These are the episode  areas, in reverse order, and any links or content we post
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
 
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Three: You Have to Draw the Line Somewhere</b></h3><br>
+
+*[Date Aired: March 24th, 2021](https://aksa.ms/sosn-videos)
+
+Join Buck and Anna as they regress. I mean, explain Regression. Anyway, you'll learn one of the most widely used tools in Statistics and Data Science, and how the math works for its predictions. There's spreadheets, code, Notebooks and more in this thrill-packed episode, you won't want to miss it! 
+
+**References:**
+
+- General:
+	- [Encyclopedia of Mathematics on Regression]https://encyclopediaofmath.org/index.php?title=Regression_analysis) 
+	- [Really great explainer of the General Linear Model from Statistics](https://www.youtube.com/watch?v=WWqE7YHR4Jc)
+	- [Fund site showing spurious correlations](https://tylervigen.com/spurious-correlations)
+	- [Regression from a financial perspective](https://www.investopedia.com/terms/l/linearrelationship.asp 
+	- [Another good explainer for Regression](https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html)
+
+		
+- Code samples from episode
+    - [Linear regression in Python](https://www.w3schools.com/python/python_ml_linear_regression.asp)
+	- [Logistic Regression in R Programming](https://www.geeksforgeeks.org/logistic-regression-in-r-programming/)
+
+
+
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Two: Reduce, Re-use, Recycle</b></h3><br>
 
 *[Date Aired: February 24th, 2021](https://youtu.be/TRNvuD5n8BQ)*
