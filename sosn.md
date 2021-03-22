@@ -23,16 +23,13 @@ Join Buck and Anna as they regress. I mean, explain Regression. Anyway, you'll l
 - General:
 	- [Encyclopedia of Mathematics on Regression]https://encyclopediaofmath.org/index.php?title=Regression_analysis) 
 	- [Really great explainer of the General Linear Model from Statistics](https://www.youtube.com/watch?v=WWqE7YHR4Jc)
-	- [Fund site showing spurious correlations](https://tylervigen.com/spurious-correlations)
+	- [Fun site showing spurious correlations](https://tylervigen.com/spurious-correlations)
 	- [Regression from a financial perspective](https://www.investopedia.com/terms/l/linearrelationship.asp 
 	- [Another good explainer for Regression](https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html)
 
-		
 - Code samples from episode
     - [Linear regression in Python](https://www.w3schools.com/python/python_ml_linear_regression.asp)
 	- [Logistic Regression in R Programming](https://www.geeksforgeeks.org/logistic-regression-in-r-programming/)
-
-
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Two: Reduce, Re-use, Recycle</b></h3><br>
 
