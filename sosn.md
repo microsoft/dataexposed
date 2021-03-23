@@ -26,6 +26,7 @@ Join Buck and Anna as they regress. I mean, explain Regression. Anyway, you'll l
 	- [Fun site showing spurious correlations](https://tylervigen.com/spurious-correlations)
 	- [Regression from a financial perspective](https://www.investopedia.com/terms/l/linearrelationship.asp 
 	- [Another good explainer for Regression](https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html)
+	- [Susan Sivek does a fantastic job of explaining errors and residuals here, and has some excellent links on other regression formulas](https://www.kdnuggets.com/2021/03/metrics-evaluating-regression-models-part2.html)
 
 - Code samples from episode
     - [Linear regression in Python](https://www.w3schools.com/python/python_ml_linear_regression.asp)
