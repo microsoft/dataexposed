@@ -20,8 +20,8 @@ sample_n(PID2, 4)
 
 # Now we split the data into training and test set
 set.seed(123)
-training.samples <- PPID2$diabetes %>% 
-  createDataPartition(p = 0.75, list = FALSE)
+training.samples <- PID2$diabetes %>% 
+createDataPartition(p = 0.75, list = FALSE)
 train.data  <- PID2[training.samples, ]
 test.data <- PID2[-training.samples, ]
 
