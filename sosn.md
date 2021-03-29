@@ -34,7 +34,7 @@ Join Buck and Anna as they regress. I mean, explain Regression. Anyway, you'll l
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Two: Reduce, Re-use, Recycle</b></h3><br>
 
-*[Date Aired: February 24th, 2021](https://youtu.be/TRNvuD5n8BQ)*
+*[Date Aired: February 24th, 2021](https://www.youtube.com/watch?v=07rFGuPxcLA&list=PL3EZ3A8mHh0xEjDPcaWeQCjs727PRqA3i&index=1)*
 
 Our hero Buck goes on a trip (virtually though, since there's a thing) to the data jungle to detangle the tangled. He also notices that your data is a bit...chunky, and shows you how to go low-calorie with your algorithms. Anna shows up to save the day with something really deep. Deep Learning, that is. 
 
