@@ -12,6 +12,41 @@ These are the episode  areas, in reverse order, and any links or content we post
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
 
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Four: Do Kangaroos Prefer Cake Or Frosting, Generally Speaking?</b></h3><br>
+
+*[Date Aired: March 24th, 2021](https://aksa.ms/sosn-videos)
+
+There are two categories of people: People who put people into two categories, and people who don’t. In this exciting episode of “Something Old, Something New” Buck and Anna will show you how to categorize and classify things using math and Machine Learning. As always, be ready to learn and have fun!
+
+(Oh, and we’ll explain that title. Promise.)
+
+**References:**
+
+- Taxonomies:
+	- [Taxonomies Explained](https://en.wikipedia.org/wiki/Taxonomy) 
+	- [Naïve Bayes](https://towardsdatascience.com/understanding-na%C3%AFve-bayes-algorithm-f9816f6f74c0)
+	- [Discriminant Analysis](https://www.digitalvidya.com/blog/discriminant-analysis/)
+	- [Support Vector Machines](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/) 
+	- [Nearest Neighbors](https://www.excelr.com/blog/data-science/machine-learning-supervised/understanding-the-concept-of-knn-algorithm-using-r) 
+	- [Neural Networks](https://medium.com/analytics-vidhya/an-introduction-to-mathematics-behind-neural-networks-135df0b85fa1)
+
+- Classification Math Techniques:
+	- [K-Means for Beginners](https://towardsdatascience.com/k-means-clustering-for-beginners-2dc7b2994a4)
+	- [Classification Info](https://brilliant.org/wiki/classification/)
+	- [The math behind K-Means Clustering](https://heartbeat.fritz.ai/understanding-the-mathematics-behind-k-means-clustering-40e1d55e2f4c)
+	- [StatQuest: K-means clustering video](https://www.youtube.com/watch?v=4b5d3muPQmA)
+	- [General Clusting Math](https://www.statisticshowto.com/clustering/)
+
+- Clasification Examples:
+	- [Anna's Notebook showing classification examples]()
+	- [Naïve Bayes in Data Mining](https://docs.microsoft.com/en-us/analysis-services/data-mining/microsoft-naive-bayes-algorithm?view=asallproducts-allversions)
+
+- Code samples from episode
+    - [Naïve Bayes example with Code](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/ )
+	- [Logistic Regression in R Programming](https://www.geeksforgeeks.org/logistic-regression-in-r-programming/)
+	- [A Clustering Example in R](https://www.statology.org/k-means-clustering-in-r/)
+
+
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Three: You Have to Draw the Line Somewhere</b></h3><br>
 
 *[Date Aired: March 24th, 2021](https://aksa.ms/sosn-videos)
