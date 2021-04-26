@@ -38,7 +38,7 @@ There are two categories of people: People who put people into two categories, a
 	- [General Clusting Math](https://www.statisticshowto.com/clustering/)
 
 - Clasification Examples:
-	- [Anna's Notebook showing classification examples]()
+	- [Anna's Notebook showing classification examples](https://github.com/microsoft/dataexposed/blob/main/notebooks/SOSNEP04NB01.ipynb)
 	- [Naïve Bayes in Data Mining](https://docs.microsoft.com/en-us/analysis-services/data-mining/microsoft-naive-bayes-algorithm?view=asallproducts-allversions)
 
 - Code samples from episode
