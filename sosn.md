@@ -14,7 +14,7 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Four: Do Kangaroos Prefer Cake Or Frosting, Generally Speaking?</b></h3><br>
 
-*[Date Aired: March 24th, 2021](https://aksa.ms/sosn-videos)
+*[Date Aired: April 28th, 2021](https://aksa.ms/sosn-videos)
 
 There are two categories of people: People who put people into two categories, and people who don’t. In this exciting episode of “Something Old, Something New” Buck and Anna will show you how to categorize and classify things using math and Machine Learning. As always, be ready to learn and have fun!
 
