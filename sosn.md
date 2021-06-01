@@ -12,9 +12,44 @@ These are the episode  areas, in reverse order, and any links or content we post
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
 
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Five: That's Really Deep</b></h3><br>
+
+*[Date Aired: June 2nd, 2021](https://aksa.ms/sosn-videos)
+
+Buck has often been accused of not thinking about things deeply enough (especially by his wife) so in this Episode Anna will help him take the math and apply it to a branch of Machine Learning called "Deep Learning". Don't worry, we'll take it slow, and give you lots of examples along the way. You'll learn about the different types of Deep Learning, the math, and the packages and libraries that make it simple to work with. 
+
+Also, like any good Hallmark movie, <a href="https://uploads.neatorama.com/images/posts/278/111/111278/How-Hallmark-Christmas-Movie-Plots-Are-Made_0-l.jpg?v=12791" target=blank>there's a dog</a>. 
+
+**References:**
+
+- General References:
+	- [Deep Learning versus Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-deep-learning-vs-machine-learning) 
+	- [Deep Learning Basics: Introduction and Overview](https://www.youtube.com/watch?v=O5xeyoRL95U) 
+	- [A Longer, but REALLY well-done introduction to Deep Learning](https://www.youtube.com/watch?v=r0Ogt-q956I) 
+	- [Introduction to pre-Perceptrons by McCulloch and Pitts](https://web.csulb.edu/~cwallis/artificialn/History.htm)
+	- [You can watch a Perceptron work at this stie](https://owenshen24.github.io/perceptron/) 
+ 
+- Math from the episode:
+	- [Deep Learning math from Mathworks](https://www.mathworks.com/discovery/deep-learning.html) 
+	- [Deep Learning math from DataScienceCentral](https://www.datasciencecentral.com/profiles/blogs/the-mathematics-of-data-science-understanding-the-foundations-of)
+	- [The math behind Perceptrons](http://users.ics.aalto.fi/ahonkela/dippa/node41.html )
+
+- Libraries and Packages
+	- [Understanding Deep Learning Frameworks from NVIDIA](https://developer.nvidia.com/deep-learning-frameworks)
+	- [Tensorflow overview](https://www.tensorflow.org/overview/)
+	- [PyTorch introduction](https://pytorch.org/tutorials/beginner/basics/intro.html)
+	- [Microsoft's Cognitive Toolkit](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+	- [Caffe introduction](http://caffe.berkeleyvision.org/tutorial/)
+	- [Keras for beginners](https://keras.io/getting_started/intro_to_keras_for_engineers/) 
+	- [ONNX](https://onnx.ai/)
+	- [Another ONNX overview](https://docs.microsoft.com/en-us/azure/azure-sql-edge/onnx-overview)
+
+- Code samples from episode
+    - [Code from full course on Deep Learning from Microsoft](https://github.com/MicrosoftLearning/Deep-Learning-Explained)
+
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Four: Do Kangaroos Prefer Cake Or Frosting, Generally Speaking?</b></h3><br>
 
-*[Date Aired: April 28th, 2021](https://aksa.ms/sosn-videos)
+*[Date Aired: April 28th, 2021](https://aka.ms/sosn-videos)*
 
 There are two categories of people: People who put people into two categories, and people who don’t. In this exciting episode of “Something Old, Something New” Buck and Anna will show you how to categorize and classify things using math and Machine Learning. As always, be ready to learn and have fun!
 
@@ -49,7 +84,7 @@ There are two categories of people: People who put people into two categories, a
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Three: You Have to Draw the Line Somewhere</b></h3><br>
 
-*[Date Aired: March 24th, 2021](https://aksa.ms/sosn-videos)
+*[Date Aired: March 24th, 2021](https://aka.ms/sosn-videos)*
 
 Join Buck and Anna as they regress. I mean, explain Regression. Anyway, you'll learn one of the most widely used tools in Statistics and Data Science, and how the math works for its predictions. There's spreadheets, code, Notebooks and more in this thrill-packed episode, you won't want to miss it! 
 
