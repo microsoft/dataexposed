@@ -12,6 +12,26 @@ These are the episode  areas, in reverse order, and any links or content we post
 
 As always, we've got a place to ask questions and chat about what you've learned! Follow the [terms and condidions of our Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [navigate here to post](https://github.com/microsoft/dataexposed/discussions). Make sure you tag your questions with the episode name and date so we know what you're asking about.
 
+<h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Six: Not really Artificial, not really Intelligence</b></h3><br>
+
+*[Date Aired: June 23rd, 2021](https://aksa.ms/sosn-videos)
+
+In this episode, Buck and Anna tackle the difficult topic of Ethics in AI. Artificial Intelligence is becoming more powerful, and more prevalent in our lives – but how is it making the choices it does? What are the biases that it has, and how do they get in the code? We’ll explain the issue clearly, and give you specific steps and guidelines you can follow to create ethical AI systems. 
+
+**References:**
+
+- General References:
+	- [Ethical AI Site from Microsoft](https://aka.ms/ai-ethics) 
+	- [AI is getting smarter every day, but it still can’t match the human mind](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-deep-learning-vs-machine-learning) 
+	- [Adversarial machine learning: The underrated threat of data poisoning](https://venturebeat.com/2021/04/21/adversarial-machine-learning-underrated-threat-data-poisoning/) 
+	- [The mosaic effect and big data](https://fcw.com/articles/2014/05/13/fose-mosaic.aspx) 
+	- [Spotting deepfakes isn’t as easy as you might think](https://www.spotdeepfakes.org/en-US/) 
+	- [AI Can Write Disinformation Now—and Dupe Human Readers](https://www.wired.com/story/ai-write-disinformation-dupe-human-readers/) 
+
+- Math from the episode:
+	- [Bias in statistics](https://en.wikipedia.org/wiki/Bias_(statistics)) 
+	- [Machine learning and bias](https://developer.ibm.com/technologies/machine-learning/articles/machine-learning-and-bias) 
+
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Five: That's Really Deep</b></h3><br>
 
 *[Date Aired: June 2nd, 2021](https://aksa.ms/sosn-videos)
