@@ -14,7 +14,7 @@ As always, we've got a place to ask questions and chat about what you've learned
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Six: Not really Artificial, not really Intelligence</b></h3><br>
 
-*[Date Aired: June 23rd, 2021](https://aksa.ms/sosn-videos)
+*[Date Aired: June 23rd, 2021](https://aka.ms/sosn-videos)
 
 In this episode, Buck and Anna tackle the difficult topic of Ethics in AI. Artificial Intelligence is becoming more powerful, and more prevalent in our lives – but how is it making the choices it does? What are the biases that it has, and how do they get in the code? We’ll explain the issue clearly, and give you specific steps and guidelines you can follow to create ethical AI systems. 
 
@@ -34,7 +34,7 @@ In this episode, Buck and Anna tackle the difficult topic of Ethics in AI. Artif
 
 <h3><img style="float: left; margin: 0px 15px 15px 0px;" src="https://github.com/microsoft/dataexposed/blob/main/graphics/Camera.png?raw=true"><b>     Episode Five: That's Really Deep</b></h3><br>
 
-*[Date Aired: June 2nd, 2021](https://aksa.ms/sosn-videos)
+*[Date Aired: June 2nd, 2021](https://aka.ms/sosn-videos)
 
 Buck has often been accused of not thinking about things deeply enough (especially by his wife) so in this Episode Anna will help him take the math and apply it to a branch of Machine Learning called "Deep Learning". Don't worry, we'll take it slow, and give you lots of examples along the way. You'll learn about the different types of Deep Learning, the math, and the packages and libraries that make it simple to work with. 
 
